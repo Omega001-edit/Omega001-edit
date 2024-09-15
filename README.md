@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Omega001-edit
 - 👀 I’m interested in whatsapp bot
 - 🌱 I’m currently learning boting
-- 💞️ I’m looking to collaborate on bot![Screenshot_20240915-152341](https://github.com/user-attachments/assets/8b0f07ae-95e8-4851-bb7c-1c58ee51fc80)
+- 💞️ I’m looking to collaborate bot!(https://github.com/user-attachments/assets/4907c1a3-7891-4030-97b2-8c33ce1afa79)
+(https://github.com/user-attachments/assets/8b0f07ae-95e8-4851-bb7c-1c58ee51fc80
 
 - 📫 How to reach me +23231529853
 - 😄 Pronouns: ...
